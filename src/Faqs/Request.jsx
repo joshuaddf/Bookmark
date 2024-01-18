@@ -34,7 +34,7 @@ const Request = () => {
               transition={{ duration: 0.5, type: "spring" }}
                 className="py-[1rem] lg:w-[95%] xl:w-[95%] text-Grayish-Blue"
               >
-                Go to the browser manufactorer's website or use your Phone/Tablet's "App Store" and get the latest version of it.
+                Go to the browser manufacturer's website or use your Phone/Tablet's "App Store" and get the latest version of it.
               </motion.p>
             )}
           </AnimatePresence>

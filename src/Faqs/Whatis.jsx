@@ -18,7 +18,7 @@ const Whatis = () => {
               className="flex text-Very-Dark-Blue lg:text-[1.3rem] items-center w-[95%] justify-between hover:text-Soft-Red"
               onClick={open}
             >
-              What ia a bookmark?
+              What is a bookmark?
               <span className={`duration-300 ${show ? "rotate-180" : ""}`}>
                 <img src={ArrowDown} />
               </span>
@@ -35,7 +35,7 @@ const Whatis = () => {
                 className="py-[1rem] lg:w-[95%] xl:w-[95%] text-Grayish-Blue"
               >
                 A bookmark is an internet address that you keep because you
-                visit it often: A bookmark simply serves as a shortcut back to
+                visit it often. A bookmark simply serves as a shortcut back to
                 the website.
               </motion.p>
             )}

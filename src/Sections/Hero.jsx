@@ -15,8 +15,8 @@ const Hero = () => {
             A Simple Bookmark Manager
           </h1>
           <p className="text-center font-[400] mx-[2rem] leading-7 my-[1.2rem] text-Faded-Very-Dark-Blue lg:my-[1.6rem] lg:text-start xl:text-start lg:text-[1.2rem]">
-            A clean and simple inteface to organize your favourite websits. Open
-            a new browser tab and see your sites load instanly. Try it for free.
+            A clean and simple interface to organize your favourite websites. Open
+            a new browser tab and see your sites load instantly. Try it for free.
           </p>
           <div className="flex items-center gap-3 md:gap-8 my-2 text-[0.9rem] lg:ml-[-8rem]">
             <button className="bg-Soft-Blue px-[1.2rem] lg:ml-0 py-[0.8rem] text-White rounded-lg shadow-md lg:py-[1.1rem] lg:px-[1.4rem] xl:py-[1.1rem] xl:px-[1.4rem] hover:bg-White hover:text-Soft-Blue hover:border-Soft-Blue border-2 duration-300">

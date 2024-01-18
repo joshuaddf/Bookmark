@@ -95,7 +95,7 @@ const Navbar = () => {
           <NavLink to="/contact" className="hover:text-Soft-Red duration-300">
             CONTACT
           </NavLink>
-          <NavLink to="/Features" className="bg-Soft-Red px-[2.3rem] rounded-md py-[0.7rem] text-[0.8rem] text-White font-[500] hover:bg-White hover:border-Soft-Red border-2 duration-300 hover:text-Soft-Red">
+          <NavLink to="/login" className="bg-Soft-Red px-[2.3rem] rounded-md py-[0.7rem] text-[0.8rem] text-White font-[500] hover:bg-White hover:border-Soft-Red border-2 duration-300 hover:text-Soft-Red">
             LOGIN
           </NavLink>
         </ul>
