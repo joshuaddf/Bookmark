@@ -14,6 +14,12 @@ const Navbar = () => {
 
   const handleBtn = () => {
     setOpenMenu(!openMenu);
+
+    if ( !openMenu ) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
   }
 
   const showMenu = () => {
