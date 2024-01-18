@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "./Components/NAvbar";
-import Footer from "./Components/Footer";
 import Features from "./Pages/Features";
 import Pricing from "./Pages/Pricing";
 import Contact from "./Pages/Contact";
@@ -30,7 +29,6 @@ const App = () => {
             <Route path="/add" element={<AddInstall />}/>
             <Route path="/contactus" element={<ContactUs />}/>
           </Routes>
-        {/* <Footer /> */}
       </Router>
     </div>
   );
